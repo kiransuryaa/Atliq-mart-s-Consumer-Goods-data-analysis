@@ -1,8 +1,9 @@
 # Provide insights to management in Consumer goods domain
 # Content
-* [Problem statement]()
-* [Ad-hoc requests]()
-* [Insights]()
+  * Problem statement
+  * Ad-hoc requests
+  * Insights
+
 ## Problem statement
 Atliq hardware, a leading computer hardware and peripheral producer company, recognized the critical need for data-driven decisions.
 Management team has provided 10 Ad-hoc request to their data analytics team, as they want gain meaningful insights from ad-hoc request.
